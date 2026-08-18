@@ -1,0 +1,9 @@
+# @kongmin/ma-shuan bundle: KeyBox plugin
+# host (node): /ma-shuan/* data routes (manifest.json + ledger.jsonl + at-rest encryption)
+# client (browser): sidebar.footer.action injects keybox icon + React panel
+- insert:
+    - id: ma-shuan
+      name: '@kongmin/ma-shuan'
+      config:
+        vaultRoot: ""
+        encryptionEnabled: true
