@@ -27,6 +27,11 @@
 - **到期提醒**：过期 / 即将到期一目了然
 - **查找**：按名称 / 备注 / 平台实时过滤
 
+
+## 国内镜像（Gitee）
+
+- 国内镜像仓库：https://gitee.com/kongminos/ma-shuan （免代理，国内下载/克隆更快）
+- GitHub 原仓：https://github.com/kongminOS/ma-shuan
 ## 快速开始
 
 1. 把 `@kongmin/ma-shuan` 作为 DSH 插件装入 profile（cordis patch）
